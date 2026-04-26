@@ -1,0 +1,8 @@
+{
+    "idf.currentSetup": "D:/Espressif/frameworks/esp-idf-v4.4.7/",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM7",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\bin;${env:PATH}"
+    }
+}
